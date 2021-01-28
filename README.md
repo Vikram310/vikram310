@@ -1,15 +1,15 @@
-### Hi there 👋
+Hi there 👋🏻
 
-<--
-**Vikram310/vikram310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Engineering graduate of 2019 batch. 
 
-Here are some ideas to get you started:
+Presently, I am working as a Software Enginner @ Accenture since Jul'19. I am very much interested in Data Science, machine Learning. In the past I have worked as Data Science Intern at Sparks foundation and Citizen Data Scientist at Alphaa AI.  
 
-- 🔭 I’m currently working on SQL domain @Accenture
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Data Analysis projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ... https://www.linkedin.com/in/vikram--krishna/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+
+Things I'm good at 🔥
+Languages: Python, SQL, 
+
+Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
+
+Data Analysis: Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+
