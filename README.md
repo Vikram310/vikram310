@@ -1,7 +1,5 @@
 ### Hi there 👋🏻
 
-I’m a Computer Science & Engineering graduate of 2019 batch. 
-
 Presently, I am working as a Software Enginner @ Accenture since Jul'19. I am very much interested in Data Science, machine Learning. In the past I have worked as Data Science Intern at Sparks foundation and Citizen Data Scientist at Alphaa AI.  
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
