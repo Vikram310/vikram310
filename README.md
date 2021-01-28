@@ -9,5 +9,5 @@ Languages: Python, SQL,
 
 Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 
-Data Analysis: Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+Data Science: Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
