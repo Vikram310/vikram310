@@ -11,4 +11,4 @@ Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 
 Data Science: Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
-[LinkedIn](https://www.linkedin.com/in/vikram--krishna/)
+![LinkedIn](https://www.linkedin.com/in/vikram--krishna/)
