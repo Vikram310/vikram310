@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vikram Krishna</h1>
-<h3 align="center">A python loving Data Science Enthusiast. Python • Data Science • Machine Learning • Deep Learning</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram310" alt="vikram310" /></a> </p>
+<h3 align="center">A python loving Data Science Enthusiast. Python • Data Science • Machine Learning • Deep Learning •Statistics</h3>
 
 <p align="left"> <a href="https://twitter.com/vikram__krishna" target="blank"><img src="https://img.shields.io/twitter/follow/vikram__krishna?logo=twitter&style=for-the-badge" alt="vikram__krishna" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikram310/DS-ML](https://github.com/Vikram310/DS-ML)
 
 - 📫 How to reach me **vikramkrishna725@gmail.com**
+
+- ⚡ Fun fact **My perfect day would start with Coffee and end with Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
