@@ -10,8 +10,9 @@
 - 📫 How to reach me **vikramkrishna725@gmail.com**
 
 - ⚡ Fun fact **My perfect day would start with Coffee and end with Coffee**
-  
- <br>  <br>
+ 
+ ***
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vikram__krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikram__krishna" height="30" width="40" /></a>
