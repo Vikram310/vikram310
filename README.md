@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikram Krishna</h1>
-<h3 align="center">A python loving Data Science Enthusiast. Python • Data Science • Machine Learning • Deep Learning •Statistics •SQL </h3>
-
-<p align="left"> <a href="https://twitter.com/vikram__krishna" target="blank"><img src="https://img.shields.io/twitter/follow/vikram__krishna?logo=twitter&style=for-the-badge" alt="vikram__krishna" /></a> </p>
+![Vikram Krishna](https://github.com/Vikram310/vikram310/blob/main/Image/Banner.png?raw=true)
 
 - 🌱 I’m currently learning **Machine Learning**
 
