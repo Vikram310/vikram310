@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vikramkrishna725@gmail.com**
 
-- ⚡ Fun fact **My perfect day would start with Coffee and end with Coffee**
+- ⚡ Fun fact **My day would start with Coffee and end with Coffee**
  
  ***
  
