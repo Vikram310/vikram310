@@ -1,29 +1,71 @@
-![Vikram Krishna](https://github.com/Vikram310/vikram310/blob/main/Image/Banner.png?raw=true)
+<h1><strong>Hi, I'm <a href="https://vikramkrishna.com">Vikram Krishna</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
-- 🌱 I’m currently learning **Machine Learning**
+<div align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Vikram310" alt="Vikram310"> 
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vikram310/DS-ML](https://github.com/Vikram310/DS-ML)
+<h3 align="center"><em>**TORTURE** the **DATA** and it will **CONFESS** everything.💯</em></h3>
 
-- 📫 How to reach me **vikramkrishna725@gmail.com**
+<p>This is what I have learned over the past two years. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care & a pasionate tech enthusiast who loves to solves problems and travelling .</p>
 
-- ⚡ Fun fact **My day would start with Coffee and end with Coffee**
- 
- ***
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vikram__krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikram__krishna" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vikram--krishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram krishna" height="30" width="40" /></a>
-<a href="https://instagram.com/vikram__krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikram__krishna" height="30" width="40" /></a>
-</p>
+<hr>
+<img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px">
+<h3>🚀 Some things you should know 👇</h3>
+<ul>
+<li>👨‍💻 I'm currently a <em>Data Analyst</em> at <strong>Cotiviti</strong>.</li>
+<li>👨‍🔬 I'm working as a <em>Community Data Mentor in SQL</em> for <strong>Data with Danny</strong>.</li>
+<li>☁  Worked as a <em>Data Scientist</em> at <strong>Accenture</strong> for more than a year.</li>
+<li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
+</ul>
+<hr>
 
-***
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3>My Skills include 👨‍💻</h3>
+<div>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br>
+<hr>
 
-***
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram310&show_icons=true&locale=en&layout=compact" alt="vikram310" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram310&show_icons=true&theme=dark&locale=en" alt="vikram310" /></p>
-
+<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<h3>🦄 While I am not doing Data Science 😉</h3>
+<ul>
+    <li>I would travel and do some photography📸</li>
+    <li>Watch some series on Netflix 🍿</li>
+    <li>Cook an amazing dish 👨‍🍳😋</li>
+    <li>Play Ping pong 🏓</li>
+    <li> Go for a walk 🚶‍♂️</li>
+</ul>
+<hr>
+<h3>How to reach me ✨</h3>
+<div>
+    <a href="https://www.linkedin.com/in/vikram--krishna/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/vikram__krishna">
+        <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/Vipul#5784/">
+        <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: vikramkrishna725@gmail.com">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/vikram310/">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
+<hr>
+<br>
+<div >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vikram310&count_private=true&show_icons=true&theme=radical"  width="400px" alt="vikram310">
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram310&layout=compact&theme=radical"  width="350px" alt="vikram310">
+</div>
