@@ -9,7 +9,6 @@
 <p>This is what I have learned over the past two years. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care & a pasionate tech enthusiast who loves to solves problems and travelling .</p>
 
 <hr>
-<img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analyst</em> at <strong>Cotiviti</strong>.</li>
@@ -33,7 +32,6 @@
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>I would travel and do some photography📸</li>
