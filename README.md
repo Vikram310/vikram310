@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Vikram310" alt="Vikram310"> 
 </div>
 
-<h3 align="center"><em>**TORTURE** the **DATA** and it will **CONFESS** everything.💯</em></h3>
+<h3 align="center"><em>TORTURE the DATA and it will CONFESS everything.💯</em></h3>
 
 <p>This is what I have learned over the past two years. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care & a pasionate tech enthusiast who loves to solves problems and travelling .</p>
 
