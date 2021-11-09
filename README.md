@@ -6,7 +6,7 @@
 
 <h3 align="center"><em>TORTURE the DATA and it will CONFESS everything.💯</em></h3>
 
-<p>This is what I have learned over the past two years working in the field of Data Science. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care & a pasionate tech enthusiast who loves to solves problems and loves to travel in free time .</p>
+<p>This is what I have learned over the past two years working in the field of Data Science. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care Domain & a pasionate tech enthusiast who loves to solves problems </p>
 
 <hr>
 <h3>🚀 Some things you should know 👇</h3>
