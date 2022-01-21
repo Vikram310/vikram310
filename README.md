@@ -13,7 +13,7 @@
 <ul>
 <li>👨‍💻 I'm currently working as  <em>Data Analyst</em> at <strong>Cotiviti</strong>.</li>
 <li>👨‍🔬 I'm a <em>Community Data Mentor in SQL</em> for <strong>Data with Danny</strong>.</li>
-<li>☁  Worked as a <em>Data Scientist</em> at <strong>Accenture</strong> for more than a year.</li>
+<li>☁  Previously worked as a <em>Data Scientist</em> at <strong>Accenture</strong> for more than a year.</li>
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
 </ul>
 <hr>
