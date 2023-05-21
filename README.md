@@ -53,7 +53,7 @@
         <img src="https://skillicons.dev/icons?i=discord" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: vikramkrishna725@gmail.com">
-        <img src="https://skillicons.dev/icons?i=email" width="30px">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
