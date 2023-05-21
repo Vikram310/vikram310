@@ -47,16 +47,13 @@
         <img src="https://skillicons.dev/icons?i=linkedin" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/vikram__krishna">
-        <img src="https://image.flaticon.com/icons/png/512/145/145812.png">
+        <img src="https://skillicons.dev/icons?i=twitter" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Vikram#5784/">
-        <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
+        <img src="https://skillicons.dev/icons?i=discord" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: vikramkrishna725@gmail.com">
-        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/vikram310/">
-        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+        <img src="https://skillicons.dev/icons?i=email" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
