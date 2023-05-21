@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/vikram__krishna">
-        <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="70px">
+        <img src="https://image.flaticon.com/icons/png/512/145/145812.png">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Vikram#5784/">
         <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
