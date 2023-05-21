@@ -44,7 +44,7 @@
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/vikram--krishna/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/vikram__krishna">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
